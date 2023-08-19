@@ -1,5 +1,4 @@
-# test_app
-
+# Cake Shop
 A new Flutter project.
 
 ## Getting Started
